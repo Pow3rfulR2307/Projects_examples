@@ -1,14 +1,9 @@
 """
-ALUNO= Pedro Lunardelli Antunes
-
-Python for beginners, simpplilearn, stackoverflow e python pool foram usados para ajudar na formatação da saída, nenhum código foi copiado.
-Alterações foram feitas com o objetivo de evitar plagios e para adaptar aos conhecimentos do aluno (nenhum código de alto nível foi usado).
-
 O CÓDIGO ABAIXO TEM COMO OBJETIVO LER ARQUIVOS DE TEXTO E BUSCAR TIPOS DE OPERAÇÕES ENTRE CONJUNTOS E OS CONJUNTOS A SEREM TRABALHADOS.
 A SAÍDA DO PROGRAMA CONTÉM A OPERAÇÃO, OS CONJUNTOS E A RESPOSTA.
 """
 #Abre o arquivo, só mudar o nome do arquvio de texto para iniciar
-opening=open('TEST2.txt')
+opening=open('TEST.txt')
 
 #Lê o arquivo e o separa em linhas.
 readline=opening.read().splitlines()
