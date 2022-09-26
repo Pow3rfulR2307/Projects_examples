@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="css_calculator.css" />
+        <script type="text/javascript" src="javascript_calculator.js" defer></script>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <div class="div_top">
+            <button class="button_top">Clique no símbolo da operação para realizar o cálculo</button></div>
+        <div class="div_left"></div>
+        <div class="div_calculator">
+            <div class="div_entry"><input type="text" id="product1" class="box_data" size=3/>
+                <button class="operation" onclick="multiply()">x</button>
+                <input type="text" id="product2" class="box_data" size=3/>
+                <button class="operation">=</button> 
+                <input type="text" class="box_anwser" placeholder= "anwser" id="result_product" readonly size=10/>
+                <button class="limpar" onclick="clear_m()">Clear</button></div>
+
+            <div class="div_entry"><input type="text" id="sum1" class="box_data"size=3/>
+                <button class="operation" onclick="sum()">+</button>
+                <input type="text" id="sum2"  class="box_data" size=3/><button class="operation">=</button> 
+                <input type="text" class= "box_anwser"placeholder= "anwser" id="result_sum" readonly size=10/>
+                <button class="limpar" onclick="clear_sum()">Clear</button></div>
+
+            <div class="div_entry"><input type="text" id="sub1" class="box_data" size=3/>
+                <button class="operation" onclick="sub()">-</button>
+                <input type="text" id="sub2"  class="box_data" size=3/><button class="operation">=</button>
+                <input type="text" class="box_anwser"placeholder= "anwser" id="result_sub" readonly size=10/>
+                <button class="limpar" onclick="clear_sub()">Clear</button></div>
+
+            <div class="div_entry"><input type="text" id="div1" class="box_data" size=3/>
+                <button class="operation" onclick="div()">/</button>
+                <input type="text" id="div2"  class="box_data" size=3/><button class="operation">=</button>
+                <input type="text" class="box_anwser" placeholder= "anwser" id="result_div" readonly size=10/>
+                <button class="limpar" onclick="clear_div()">Clear</button></div>
+        </div>
+    </body>
+</html>
