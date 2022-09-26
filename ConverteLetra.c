@@ -2,10 +2,7 @@
 ou qualquer programa similar para gerar um .exe, assim é só abrir o diretório na qual o programa 
 e os arquivos de teste foram salvos no prompt de comando e digitar 
 "ConverteLetra ArquivoTextoEntrada.txt ArquivoTextoSaida.txt" para rodar. 
-Os arquivos para teste .txt poderão ser criados pelo usuário para rodar com esse programa.
-
-Aluno= Pedro Lunardelli Antunes*/
-
+Os arquivos para teste .txt poderão ser criados pelo usuário para rodar com esse programa.*/
 #include <stdio.h>
 int main(int argc, char**argv){
     int ch;
