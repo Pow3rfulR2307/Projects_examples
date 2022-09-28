@@ -1,3 +1,6 @@
+
+#Joquempô programado em python, com possibilidade de jogada entre jogadores, jogador vs pc ou pc vs pc
+
 import random
 from random import choice
 vx=0
