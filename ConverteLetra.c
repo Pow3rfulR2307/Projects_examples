@@ -2,7 +2,9 @@
 ou qualquer programa similar para gerar um .exe, assim é só abrir o diretório na qual o programa 
 e os arquivos de teste foram salvos no prompt de comando e digitar 
 "ConverteLetra ArquivoTextoEntrada.txt ArquivoTextoSaida.txt" para rodar. 
-Os arquivos para teste .txt poderão ser criados pelo usuário para rodar com esse programa.*/
+Os arquivos para teste .txt poderão ser criados pelo usuário para rodar com esse programa.
+
+PROGRAMA QUE CONVERTE TODAS AS LETRAS MINÚSCULAS DE UM ARQUIVO .TXT PARA MAIÚSCULAS EM OUTRO ARQUIVO .TXT*/
 #include <stdio.h>
 int main(int argc, char**argv){
     int ch;
