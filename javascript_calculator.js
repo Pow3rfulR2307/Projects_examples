@@ -1,3 +1,6 @@
+
+//Uma paginá web com funcionalidades de uma calculadora simples. Abaixo se encontra o JAVACRIPT do projeto 
+
 function multiply(){
     var mul1= parseFloat(document.getElementById("product1").value);
     var mul2= parseFloat(document.getElementById("product2").value);
