@@ -1,4 +1,5 @@
-//Calculador feita em C
+
+//Calculadora feita em C
 
 #include <stdio.h>
 int main(){
