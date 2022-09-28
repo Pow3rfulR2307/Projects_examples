@@ -1,3 +1,8 @@
+
+"""Uma máquina de bebidas registrada em matriz, com valores constantemente atualizados com base nos inputs do usúario. 
+Há também a possibilidade de manipulação total da matriz com o modo de administrador, a fim de alterar estoques, preços e adições de produtos. 
+O código realiza a contagem dos IDs dos elementos da matriz de forma automática"""
+
 import time
 print('PROJETO MÁQUINA\n')
 #definindo os produtos na máquina
