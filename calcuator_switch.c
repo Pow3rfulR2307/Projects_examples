@@ -1,5 +1,5 @@
 
-//Calculadora feita em C
+//Calculadora simples feita em C com uso de switch 
 
 #include <stdio.h>
 int main(){
