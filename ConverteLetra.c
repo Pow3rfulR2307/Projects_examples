@@ -1,10 +1,7 @@
-/*Para rodar esse arquivo .c no cmd é preciso rodar ele pelo menos uma vez no visual studio
-ou qualquer programa similar para gerar um .exe, assim é só abrir o diretório na qual o programa 
-e os arquivos de teste foram salvos no prompt de comando e digitar 
-"ConverteLetra ArquivoTextoEntrada.txt ArquivoTextoSaida.txt" para rodar. 
-Os arquivos para teste .txt poderão ser criados pelo usuário para rodar com esse programa.
 
-PROGRAMA QUE CONVERTE TODAS AS LETRAS MINÚSCULAS DE UM ARQUIVO .TXT PARA MAIÚSCULAS EM OUTRO ARQUIVO .TXT*/
+/*PROGRAMA QUE RECEBE DOIS ARQUIVOS .TXT, UM DE ENTRADA E OUTRO DE SAÍDA POR MEIO DE ARGUMENTOS NO CMD. 
+O PROGRAMA ENTÃO CONVERTE TODAS AS LETRAS MINÚSCULAS DO ARQUIVO .TXT DE ENTRADA PARA MAIÚSCULAS NO ARQUIVO .TXT SAÍDA */
+   
 #include <stdio.h>
 int main(int argc, char**argv){
     int ch;
