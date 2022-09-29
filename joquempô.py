@@ -1,5 +1,5 @@
 
-#Joquempô programado em python, com possibilidade de jogada entre jogadores, jogador vs pc ou pc vs pc
+#JOQUEMPÔ PROGRAMADO EM PYTHON, COM POSSIBILIDADE DE JOGADA ENTRE JOGADORES, JOGADOR VS PC OU PC VS PC.
 
 import random
 from random import choice
