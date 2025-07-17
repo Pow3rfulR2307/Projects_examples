@@ -1,6 +1,3 @@
 # Projects_examples
 
-Esse repositório possui alguns trabalhos destaques para servir como um portfólio.
-
-ESSES ARQUIVOS / CÓDIGOS DATAM DO ÍNICIO DO MEU PERÍODO LETIVO NA FACULDADE, NÃO REPRESENTAM
-MEUS ATUAIS CONEHECIMENTOS DE DESENVOLVIMENTO. SERVEM APENAS PARA MOSTRAR PROGRESSO.
+Esse repositório possui alguns trabalhos que desenvolvi durante o começo da faculdad, evidenciando o progresso em meu conhecimento.
